@@ -1,0 +1,4 @@
+client_id,broker_id,client_name,broker_name,industry
+1,101,Acme Corp,Jane Doe,Manufacturing
+2,102,Globex Inc,John Smith,Healthcare
+3,101,Initech,Jane Doe,Technology
