@@ -1,11 +1,8 @@
-# CAC Specialty – Data Engineering Simulation
-
 # CAC Specialty – Data Infrastructure & Analytics Simulation
 
 ## Objective
 
 Demonstrate end-to-end data engineering workflows for a mid-sized insurance brokerage (modeled on CAC Specialty/Cobbs Allen), including ingestion, transformation, modeling, and BI-ready analytics.## Objective
-
 
 
 ## Business ContextDemonstrate insurance data engineering workflows based on real-world experience (2019–2021), simulating how AWS, SQL, and Power BI were used to integrate data and deliver insights.
