@@ -25,7 +25,6 @@ Recreate the data workflows used at CAC Specialty (2019–2021) to demonstrate h
 
 
 ## Entity-Relationship Diagram
-![CAC Specialty ERD](CAC_ERD.png)
 
 ## Repo Layout
 ```
